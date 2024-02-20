@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/chicken.png",
+        "title": "Teriyaki",
+        "price": "¥1,200",
+        "description": "Succulent grilled chicken or tofu glazed with our signature teriyaki sauce, served with steamed rice and a side of mixed vegetables."
+    },
+    {
+        "id": 2,
+        "img": "/assets/dumplings.png",
+        "title": "Dumplings",
+        "price": "¥800",
+        "description": "Delight in a plate of perfectly steamed or pan-fried dumplings, filled with your choice of juicy pork or flavorful vegetable and mushroom. Served with a tangy dipping sauce."
+    },
+    {
+        "id": 3,
+        "img": "/assets/karaage.png",
+        "title": "Karaage",
+        "price": "¥1,000",
+        "description": "Crispy on the outside, tender on the inside, our karaage offers bite-sized pieces of marinated chicken or tofu, deep-fried to golden perfection."
+    },
+    {
+        "id": 4,
+        "img": "/assets/soba.png",
+        "title": "Soba",
+        "price": "¥1,300",
+        "description": "Slurp up a steaming bowl of buckwheat soba noodles in a savory broth, garnished with scallions, tempura, and nori seaweed. Choose from a variety of toppings"
+    },
+    {
+        "id": 5,
+        "img": "/assets/sushi.png",
+        "title": "Sushi",
+        "price": "¥799",
+        "description": "Emmerse yourself in a world of sushi artistry with our chef's selection of the freshest, handpicked fish and expertly crafted rolls."
+    },
+    {
+        "id": 6,
+        "img": "/assets/ramen.png",
+        "title": "Ramen",
+        "price": "¥1,200",
+        "description": "Experience the ultimate comfort in a bowl with our rich and flavorful ramen. Choose from a variety of broth options, including tonkotsu, shoyu, or miso."
+    }
+]

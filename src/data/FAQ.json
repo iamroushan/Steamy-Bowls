@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "Can I make a reservation over the phone or in person?",
+        "answer": " We exclusively offer online table reservations through our website for a seamless and convenient booking process."
+    },
+    {
+        "id": 2,
+        "question": "How far in advance can I make a reservation?",
+        "answer": "You can make a reservation up to 30 days in advance, allowing you to plan your dining experience with ease."
+    },
+    {
+        "id": 3,
+        "question": "What is the cancellation policy for reservations?",
+        "answer": "We kindly request that you inform us of any changes or cancellations at least 24 hours in advance. This helps us accommodate other guests who may be waiting for a table."
+    },
+    {
+        "id": 4,
+        "question": "Can I modify the number of guests for an existing reservation?",
+        "answer": "Absolutely! You can modify the number of guests for your reservation through our website. Please make sure to update your reservation details accordingly."
+    },
+    {
+        "id": 5,
+        "question": "Are there any restrictions on the duration of a reservation?",
+        "answer": "To ensure a smooth dining experience for all our guests, we kindly request that each reservation has a maximum duration of two hours."
+    }
+]
